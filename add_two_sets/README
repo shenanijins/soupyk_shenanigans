@@ -1,0 +1,6 @@
+Create two sets and merge them together
+
+[1, 2, 3]
+[a, b, c]
+
+result = [1, a, 2, b, 3, c] or [a, 1, b, 2, c, 3]
